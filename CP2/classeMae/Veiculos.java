@@ -3,7 +3,6 @@ package classeMae;
 public class Veiculos {
 	private double capacidadeTotalAtual;
 	private String placaDoVeiculo;
-	private String nomeVeiculo = "";
 	//construtor
 	public Veiculos() {
 		this.capacidadeTotalAtual = 0;
